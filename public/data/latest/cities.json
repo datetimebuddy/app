@@ -1450,24 +1450,28 @@
   {
       "city": "Chisinau",
       "country": "Moldova",
+      "countryCode": "MD",
       "utcOffset": "+02:00",
       "tzCode": "EET"
   },
   {
       "city": "Bangkok",
       "country": "Thailand",
+      "countryCode": "TH",
       "utcOffset": "+07:00",
       "tzCode": "ICT"
   },
   {
       "city": "Tashkent",
       "country": "Uzbekistan",
+      "countryCode": "UZ",
       "utcOffset": "+05:00",
       "tzCode": "UZT"
   },
   {
       "city": "Santiago",
       "country": "Chile",
+      "countryCode": "CL",
       "utcOffset": "-03:00",
       "tzCode": "CLT"
   },
@@ -1495,6 +1499,7 @@
   {
       "city": "Baghdad",
       "country": "Iraq",
+      "countryCode": "IQ",
       "utcOffset": "+03:00",
       "tzCode": "AST"
   },
@@ -1557,6 +1562,7 @@
   {
       "city": "Zagreb",
       "country": "Croatia",
+      "countryCode": "HR",
       "utcOffset": "+01:00",
       "tzCode": "CET"
   },
