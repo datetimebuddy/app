@@ -1423,6 +1423,7 @@
   {
       "city": "Vilnius",
       "country": "Lithuania",
+      "countryCode": "LT",
       "utcOffset": "+02:00",
       "tzCode": "EET"
   },
