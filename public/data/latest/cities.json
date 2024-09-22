@@ -177,12 +177,14 @@
   {
       "city": "Buenos Aires",
       "country": "Argentina",
+      "countryCode": "AR",
       "utcOffset": "-03:00",
       "tzCode": "ART"
   },
   {
       "city": "Dublin",
       "country": "Ireland",
+      "countryCode": "IE",
       "utcOffset": "+00:00",
       "tzCode": "GMT"
   },
@@ -1609,7 +1611,8 @@
   {
       "city": "Tel Aviv",
       "country": "Israel",
-      "utcOffset": "+02:00",
+      "countryCode": "IL",
+      "utcOffset": "+03:00",
       "tzCode": "IST"
   },
   {
@@ -1693,7 +1696,7 @@
     "city": "Ramallah",
     "country": "Palestine",
     "countryCode": "PS",
-    "utcOffset": "+02:00",
+    "utcOffset": "+03:00",
     "tzCode": "EEST"
   },
   {
