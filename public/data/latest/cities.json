@@ -214,7 +214,7 @@
       "country": "Russia",
       "countryCode": "RU",
       "utcOffset": "+07:00",
-      "tzCode": "Krasnoyarsk Time"
+      "tzCode": "KRAT"
   },
   {
       "city": "Santa Ana",
@@ -401,6 +401,7 @@
   {
       "city": "Taipei",
       "country": "Taiwan",
+      "countryCode": "TW",
       "utcOffset": "+08:00",
       "tzCode": "CST"
   },
