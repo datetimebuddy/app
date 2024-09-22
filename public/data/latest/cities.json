@@ -1,0 +1,1769 @@
+[
+  {
+      "city": "Vancouver",
+      "country": "Canada",
+      "countryCode": "CA",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Irvine",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Potsdam",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Dubai",
+      "country": "UAE",
+      "countryCode": "AE",
+      "utcOffset": "+04:00",
+      "tzCode": "GST"
+  },
+  {
+      "city": "Colorado Springs",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Chicago",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CDT"
+  },
+  {
+      "city": "Medan",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Dusseldorf",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "St. Louis",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Padang",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "utcOffset": "+08:00",
+      "tzCode": "MYT"
+  },
+  {
+      "city": "Spokane",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "San Jose",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Oklahoma City",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Moscow",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+03:00",
+      "tzCode": "MSK"
+  },
+  {
+      "city": "Glendale",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Honolulu",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-10:00",
+      "tzCode": "HST"
+  },
+  {
+      "city": "Wilmington",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Görlitz",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Jacksonville",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Lubeck",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Milwaukee",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Stockton",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Zwickau",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Phoenix",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "utcOffset": "-03:00",
+      "tzCode": "ART"
+  },
+  {
+      "city": "Dublin",
+      "country": "Ireland",
+      "utcOffset": "+00:00",
+      "tzCode": "GMT"
+  },
+  {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "utcOffset": "+05:00",
+      "tzCode": "PKT"
+  },
+  {
+      "city": "Rostock",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "utcOffset": "+05:00",
+      "tzCode": "PKT"
+  },
+  {
+      "city": "Krasnoyarsk",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+07:00",
+      "tzCode": "Krasnoyarsk Time"
+  },
+  {
+      "city": "Santa Ana",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Sacramento",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Boston",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Makassar",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+08:00",
+      "tzCode": "WITA"
+  },
+  {
+      "city": "Beijing",
+      "country": "China",
+      "countryCode": "CN",
+      "utcOffset": "+08:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Dnipropetrovsk",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Oslo",
+      "country": "Norway",
+      "countryCode": "NO",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Dushanbe",
+      "country": "Tajikistan",
+      "countryCode": "TJ",
+      "utcOffset": "+05:00",
+      "tzCode": "TJT"
+  },
+  {
+      "city": "Hobart",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+10:00",
+      "tzCode": "AEST"
+  },
+  {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "countryCode": "KH",
+      "utcOffset": "+07:00",
+      "tzCode": "ICT"
+  },
+  {
+      "city": "Dallas",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Mumbai",
+      "country": "India",
+      "countryCode": "IN",
+      "utcOffset": "+05:30",
+      "tzCode": "IST"
+  },
+  {
+      "city": "Austin",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Gilbert",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "utcOffset": "+02:00",
+      "tzCode": "SAST"
+  },
+  {
+      "city": "Zanesville",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Wellington",
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "utcOffset": "+12:00",
+      "tzCode": "NZST"
+  },
+  {
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Podgorica",
+      "country": "Montenegro",
+      "countryCode": "ME",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Lviv",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Banjarmasin",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+08:00",
+      "tzCode": "WITA"
+  },
+  {
+      "city": "Columbus",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "utcOffset": "+02:00",
+      "tzCode": "SAST"
+  },
+  {
+      "city": "Stuttgart",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Albuquerque",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Taipei",
+      "country": "Taiwan",
+      "utcOffset": "+08:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Minsk",
+      "country": "Belarus",
+      "countryCode": "BY",
+      "utcOffset": "+03:00",
+      "tzCode": "MSK"
+  },
+  {
+      "city": "Ankara",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "utcOffset": "+03:00",
+      "tzCode": "TRT"
+  },
+  {
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "countryCode": "AF",
+      "utcOffset": "+04:30",
+      "tzCode": "AFT"
+  },
+  {
+      "city": "Seoul",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "utcOffset": "+09:00",
+      "tzCode": "KST"
+  },
+  {
+      "city": "Long Beach",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Boise",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Belgrade",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tehran",
+      "country": "Iran",
+      "countryCode": "IR",
+      "utcOffset": "+03:30",
+      "tzCode": "IRST"
+  },
+  {
+      "city": "New York",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-04:00",
+      "tzCode": "EDT"
+  },
+  {
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "utcOffset": "+04:00",
+      "tzCode": "AZT"
+  },
+  {
+      "city": "Melbourne",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+10:00",
+      "tzCode": "AEST"
+  },
+  {
+      "city": "Surgut",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+05:00",
+      "tzCode": "YEKT"
+  },
+  {
+      "city": "St. Petersburg",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Hamburg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Washington",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "countryCode": "AE",
+      "utcOffset": "+04:00",
+      "tzCode": "GST"
+  },
+  {
+      "city": "Riverside",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Astana",
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "utcOffset": "+06:00",
+      "tzCode": "KAZ"
+  },
+  {
+      "city": "Magdeburg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Hannover",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Amman",
+      "country": "Jordan",
+      "countryCode": "JO",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "London",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "utcOffset": "+00:00",
+      "tzCode": "GMT"
+  },
+  {
+      "city": "Bandung",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "countryCode": "KG",
+      "utcOffset": "+06:00",
+      "tzCode": "KGT"
+  },
+  {
+      "city": "Wichita",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Guben",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Kansas City",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Pontianak",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Indianapolis",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Houston",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CDT"
+  },
+  {
+      "city": "Nashville",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Scottsdale",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Leipzig",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Auckland",
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "utcOffset": "+12:00",
+      "tzCode": "NZST"
+  },
+  {
+      "city": "Warsaw",
+      "country": "Poland",
+      "countryCode": "PL",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "countryCode": "GE",
+      "utcOffset": "+04:00",
+      "tzCode": "GET"
+  },
+  {
+      "city": "Chandler",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Malang",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Balikpapan",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+08:00",
+      "tzCode": "WITA"
+  },
+  {
+      "city": "Prague",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Bakersfield",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Minneapolis",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Charlotte",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Singapore",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "utcOffset": "+08:00",
+      "tzCode": "SGT"
+  },
+  {
+      "city": "San Antonio",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Gera",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Yekaterinburg",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+05:00",
+      "tzCode": "YEKT"
+  },
+  {
+      "city": "Yogyakarta",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Anaheim",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Cairo",
+      "country": "Egypt",
+      "countryCode": "EG",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Darwin",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+09:30",
+      "tzCode": "ACST"
+  },
+  {
+      "city": "Saint Louis",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Damascus",
+      "country": "Syria",
+      "countryCode": "SY",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Novosibirsk",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+07:00",
+      "tzCode": "Novosibirsk Time"
+  },
+  {
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Manila",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "utcOffset": "+08:00",
+      "tzCode": "PHT"
+  },
+  {
+      "city": "Munich",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Semarang",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Bogota",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "utcOffset": "-05:00",
+      "tzCode": "COT"
+  },
+  {
+      "city": "Doha",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "utcOffset": "+03:00",
+      "tzCode": "AST"
+  },
+  {
+      "city": "Fort Worth",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Virginia Beach",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Frankfurt",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Orlando",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Fort Wayne",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Tempe",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Saint Paul",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Dresden",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Vienna",
+      "country": "Austria",
+      "countryCode": "AT",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Las Vegas",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "utcOffset": "+08:00",
+      "tzCode": "HKT"
+  },
+  {
+      "city": "Worcester",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Richmond",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Skopje",
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Louisville",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Raleigh",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Arlington",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "countryCode": "LB",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Thimphu",
+      "country": "Bhutan",
+      "countryCode": "BT",
+      "utcOffset": "+06:00",
+      "tzCode": "BTT"
+  },
+  {
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tallinn",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Canberra",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+10:00",
+      "tzCode": "AEST"
+  },
+  {
+      "city": "Helsinki",
+      "country": "Finland",
+      "countryCode": "FI",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Palu",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+08:00",
+      "tzCode": "WITA"
+  },
+  {
+      "city": "Philadelphia",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Yuzhno-Sakhalinsk",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+11:00",
+      "tzCode": "SAKT"
+  },
+  {
+      "city": "Madrid",
+      "country": "Spain",
+      "countryCode": "ES",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tampa",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Peoria",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Los Angeles",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "PDT"
+  },
+  {
+      "city": "Manama",
+      "country": "Bahrain",
+      "countryCode": "BH",
+      "utcOffset": "+03:00",
+      "tzCode": "AST"
+  },
+  {
+      "city": "Cleveland",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Vientiane",
+      "country": "Laos",
+      "countryCode": "LA",
+      "utcOffset": "+07:00",
+      "tzCode": "ICT"
+  },
+  {
+      "city": "Tirana",
+      "country": "Albania",
+      "countryCode": "AL",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Pittsburgh",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Altenburg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Toledo",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "countryCode": "LK",
+      "utcOffset": "+05:30",
+      "tzCode": "IST"
+  },
+  {
+      "city": "Tomsk",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+07:00",
+      "tzCode": "Novosibirsk Time"
+  },
+  {
+      "city": "San Diego",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Plauen",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "San Francisco",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Banda Aceh",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Toronto",
+      "country": "Canada",
+      "countryCode": "CA",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Yerevan",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "utcOffset": "+04:00",
+      "tzCode": "AMT"
+  },
+  {
+      "city": "Vladivostok",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+10:00",
+      "tzCode": "Vladivostok Time"
+  },
+  {
+      "city": "Lima",
+      "country": "Peru",
+      "countryCode": "PE",
+      "utcOffset": "-05:00",
+      "tzCode": "PET"
+  },
+  {
+      "city": "Ashgabat",
+      "country": "Turkmenistan",
+      "countryCode": "TM",
+      "utcOffset": "+05:00",
+      "tzCode": "TMT"
+  },
+  {
+      "city": "Rostov-on-Don",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+03:00",
+      "tzCode": "MSK"
+  },
+  {
+      "city": "Erfurt",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "countryCode": "NP",
+      "utcOffset": "+05:45",
+      "tzCode": "NPT"
+  },
+  {
+      "city": "Palembang",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Odessa",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "York",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Barcelona",
+      "country": "Spain",
+      "countryCode": "ES",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Bremen",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Shanghai",
+      "country": "China",
+      "countryCode": "CN",
+      "utcOffset": "+08:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "utcOffset": "+07:00",
+      "tzCode": "ICT"
+  },
+  {
+      "city": "Omsk",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+07:00",
+      "tzCode": "Omsk Time"
+  },
+  {
+      "city": "Ambon",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+08:00",
+      "tzCode": "WITA"
+  },
+  {
+      "city": "Salinas",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Brandenburg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Perth",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+08:00",
+      "tzCode": "AWST"
+  },
+  {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "countryCode": "KW",
+      "utcOffset": "+03:00",
+      "tzCode": "AST"
+  },
+  {
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "utcOffset": "-02:00",
+      "tzCode": "BRT"
+  },
+  {
+      "city": "Knoxville",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Fresno",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Zaporizhzhia",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Kiel",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "countryCode": "TR",
+      "utcOffset": "+03:00",
+      "tzCode": "TRT"
+  },
+  {
+      "city": "Budapest",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Volgograd",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+03:00",
+      "tzCode": "MSK"
+  },
+  {
+      "city": "Seattle",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "utcOffset": "+05:00",
+      "tzCode": "PKT"
+  },
+  {
+      "city": "Athens",
+      "country": "Greece",
+      "countryCode": "GR",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Nuremberg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Kiev",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Reichenbach",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tulsa",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Vilnius",
+      "country": "Lithuania",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Denver",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Tucson",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Bogor",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "utcOffset": "+07:00",
+      "tzCode": "WIB"
+  },
+  {
+      "city": "Chisinau",
+      "country": "Moldova",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "utcOffset": "+07:00",
+      "tzCode": "ICT"
+  },
+  {
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "utcOffset": "+05:00",
+      "tzCode": "UZT"
+  },
+  {
+      "city": "Santiago",
+      "country": "Chile",
+      "utcOffset": "-03:00",
+      "tzCode": "CLT"
+  },
+  {
+      "city": "Mesa",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-07:00",
+      "tzCode": "MST"
+  },
+  {
+      "city": "Adelaide",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+09:30",
+      "tzCode": "ACST"
+  },
+  {
+      "city": "Weimar",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Baghdad",
+      "country": "Iraq",
+      "utcOffset": "+03:00",
+      "tzCode": "AST"
+  },
+  {
+      "city": "Milan",
+      "country": "Italy",
+      "countryCode": "IT",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Tokyo",
+      "country": "Japan",
+      "countryCode": "JP",
+      "utcOffset": "+09:00",
+      "tzCode": "JST"
+  },
+  {
+      "city": "Rome",
+      "country": "Italy",
+      "countryCode": "IT",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Rochester",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "utcOffset": "+06:00",
+      "tzCode": "KAZ"
+  },
+  {
+      "city": "Paris",
+      "country": "France",
+      "countryCode": "FR",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Schwerin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Baltimore",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Zagreb",
+      "country": "Croatia",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Krasnodar",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+03:00",
+      "tzCode": "MSK"
+  },
+  {
+      "city": "Samara",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+04:00",
+      "tzCode": "Samara Time"
+  },
+  {
+      "city": "Tyumen",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+05:00",
+      "tzCode": "YEKT"
+  },
+  {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "utcOffset": "+00:00",
+      "tzCode": "WET"
+  },
+  {
+      "city": "Halle",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Portland",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+      "city": "Memphis",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "utcOffset": "+02:00",
+      "tzCode": "IST"
+  },
+  {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "utcOffset": "+03:00",
+      "tzCode": "AST"
+  },
+  {
+      "city": "Jena",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Omaha",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-06:00",
+      "tzCode": "CST"
+  },
+  {
+      "city": "Dessau",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Cincinnati",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Muscat",
+      "country": "Oman",
+      "countryCode": "OM",
+      "utcOffset": "+04:00",
+      "tzCode": "GST"
+  },
+  {
+      "city": "Bucharest",
+      "country": "Romania",
+      "countryCode": "RO",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "utcOffset": "-02:00",
+      "tzCode": "BRT"
+  },
+  {
+      "city": "Oakland",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-08:00",
+      "tzCode": "PST"
+  },
+  {
+    "city": "Gaza City",
+    "country": "Palestine",
+    "countryCode": "PS",
+    "utcOffset": "+03:00",
+    "tzCode": "EEST"
+  },
+  {
+    "city": "Jerussalem",
+    "country": "Palestine",
+    "countryCode": "PS",
+    "utcOffset": "+03:00",
+    "tzCode": "EEST"
+  },
+  {
+    "city": "Ramallah",
+    "country": "Palestine",
+    "countryCode": "PS",
+    "utcOffset": "+02:00",
+    "tzCode": "EEST"
+  },
+  {
+      "city": "Brisbane",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+10:00",
+      "tzCode": "AEST"
+  },
+  {
+      "city": "Cottbus",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Zurich",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Miami",
+      "country": "USA",
+      "countryCode": "US",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Sydney",
+      "country": "Australia",
+      "countryCode": "AU",
+      "utcOffset": "+10:00",
+      "tzCode": "AEST"
+  },
+  {
+      "city": "Montreal",
+      "country": "Canada",
+      "countryCode": "CA",
+      "utcOffset": "-05:00",
+      "tzCode": "EST"
+  },
+  {
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "countryCode": "IS",
+      "utcOffset": "+00:00",
+      "tzCode": "GMT"
+  },
+  {
+      "city": "Wittenberg",
+      "country": "Germany",
+      "countryCode": "DE",
+      "utcOffset": "+01:00",
+      "tzCode": "CET"
+  },
+  {
+      "city": "Riga",
+      "country": "Latvia",
+      "countryCode": "LV",
+      "utcOffset": "+02:00",
+      "tzCode": "EET"
+  },
+  {
+      "city": "Ufa",
+      "country": "Russia",
+      "countryCode": "RU",
+      "utcOffset": "+05:00",
+      "tzCode": "YEKT"
+  }
+]
