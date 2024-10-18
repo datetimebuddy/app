@@ -8915,7 +8915,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Cliza",
@@ -8928,7 +8928,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Quillacollo",
@@ -8941,7 +8941,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Puerto Villarroel",
@@ -8954,7 +8954,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Tarabuco",
@@ -8967,7 +8967,7 @@
       "province": "Chuquisaca",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Guayaramerin",
@@ -8980,7 +8980,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Santa Ana",
@@ -8993,7 +8993,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Baures",
@@ -9006,7 +9006,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Sica Sica",
@@ -9019,7 +9019,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Rurrenabaque",
@@ -9032,7 +9032,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Sorata",
@@ -9045,7 +9045,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Achacachi",
@@ -9058,7 +9058,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Viacha",
@@ -9071,7 +9071,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Quime",
@@ -9084,7 +9084,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Llallagua",
@@ -9097,7 +9097,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Uncia",
@@ -9110,7 +9110,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Uyuni",
@@ -9123,7 +9123,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Villa Martin",
@@ -9136,7 +9136,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Betanzos",
@@ -9149,7 +9149,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Portachuelo",
@@ -9162,7 +9162,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Samaipata",
@@ -9175,7 +9175,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Cuevo",
@@ -9188,7 +9188,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Carlos",
@@ -9201,7 +9201,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Lorenzo",
@@ -9214,7 +9214,7 @@
       "province": "Tarija",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Entre Rios",
@@ -9227,7 +9227,7 @@
       "province": "Tarija",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Aiquile",
@@ -9240,7 +9240,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Padilla",
@@ -9253,7 +9253,7 @@
       "province": "Chuquisaca",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Camargo",
@@ -9266,7 +9266,7 @@
       "province": "Chuquisaca",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Reyes",
@@ -9279,7 +9279,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Borja",
@@ -9292,7 +9292,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Magdalena",
@@ -9305,7 +9305,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Ramon",
@@ -9318,7 +9318,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Puerto Heath",
@@ -9344,7 +9344,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Puerto Acosta",
@@ -9357,7 +9357,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Apolo",
@@ -9370,7 +9370,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Coroico",
@@ -9383,7 +9383,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Coro Coro",
@@ -9396,7 +9396,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Sabaya",
@@ -9409,7 +9409,7 @@
       "province": "Oruro",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Challapata",
@@ -9422,7 +9422,7 @@
       "province": "Oruro",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Llica",
@@ -9435,7 +9435,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Potosi",
@@ -9448,7 +9448,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Villazon",
@@ -9461,7 +9461,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Tupiza",
@@ -9474,7 +9474,7 @@
       "province": "Potosí",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Montero",
@@ -9487,7 +9487,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Piso Firme",
@@ -9500,7 +9500,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Robore",
@@ -9513,7 +9513,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Puerto Quijarro",
@@ -9526,7 +9526,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Ignacio",
@@ -9539,7 +9539,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Ascension",
@@ -9552,7 +9552,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Javier",
@@ -9565,7 +9565,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San Rafael",
@@ -9578,7 +9578,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Vallegrande",
@@ -9591,7 +9591,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Puerto Suarez",
@@ -9604,7 +9604,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Charagua",
@@ -9617,7 +9617,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Villamontes",
@@ -9630,7 +9630,7 @@
       "province": "Tarija",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Bermejo",
@@ -9643,7 +9643,7 @@
       "province": "Tarija",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Cochabamba",
@@ -9656,7 +9656,7 @@
       "province": "Cochabamba",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Oruro",
@@ -9669,7 +9669,7 @@
       "province": "Oruro",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Camiri",
@@ -9682,7 +9682,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Cobija",
@@ -9708,7 +9708,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "San José",
@@ -9721,7 +9721,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Trinidad",
@@ -9734,7 +9734,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Tarija",
@@ -9747,7 +9747,7 @@
       "province": "Tarija",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Sucre",
@@ -9760,7 +9760,7 @@
       "province": "Chuquisaca",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Riberalta",
@@ -9773,7 +9773,7 @@
       "province": "El Beni",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "La Paz",
@@ -9786,7 +9786,7 @@
       "province": "La Paz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Santa Cruz",
@@ -9799,7 +9799,7 @@
       "province": "Santa Cruz",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Zenica",
@@ -10150,7 +10150,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Presidente Dutra",
@@ -10163,7 +10163,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itapecuru Mirim",
@@ -10176,7 +10176,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Jose de Ribamar",
@@ -10189,7 +10189,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Ines",
@@ -10202,7 +10202,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rosario",
@@ -10215,7 +10215,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Timon",
@@ -10228,7 +10228,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Capanema",
@@ -10241,7 +10241,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Portel",
@@ -10254,7 +10254,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itupiranga",
@@ -10267,7 +10267,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pimenta Bueno",
@@ -10280,7 +10280,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Ponta Pora",
@@ -10345,7 +10345,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Leopoldina",
@@ -10358,7 +10358,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nova Lima",
@@ -10371,7 +10371,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pouso Alegre",
@@ -10384,7 +10384,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itauna",
@@ -10397,7 +10397,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Caratinga",
@@ -10410,7 +10410,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Diamantina",
@@ -10423,7 +10423,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nanuque",
@@ -10436,7 +10436,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barbacena",
@@ -10449,7 +10449,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pocos de Caldas",
@@ -10462,7 +10462,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guaxupe",
@@ -10475,7 +10475,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Joao del Rei",
@@ -10488,7 +10488,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Muriae",
@@ -10501,7 +10501,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Passos",
@@ -10514,7 +10514,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Conselheiro Lafaiete",
@@ -10527,7 +10527,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Formiga",
@@ -10540,7 +10540,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Frutal",
@@ -10553,7 +10553,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Iturama",
@@ -10566,7 +10566,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ituiutaba",
@@ -10579,7 +10579,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Araguari",
@@ -10592,7 +10592,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Almenara",
@@ -10605,7 +10605,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Varzea Grande",
@@ -10644,7 +10644,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Canoas",
@@ -10657,7 +10657,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Quarai",
@@ -10670,7 +10670,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Vitoria do Palmar",
@@ -10683,7 +10683,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Lourenco do Sul",
@@ -10696,7 +10696,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Canela",
@@ -10709,7 +10709,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Gabriel",
@@ -10722,7 +10722,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rosario do Sul",
@@ -10735,7 +10735,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cachoeira do Sul",
@@ -10748,7 +10748,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Osorio",
@@ -10761,7 +10761,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Cruz do Sul",
@@ -10774,7 +10774,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Luiz Gonzaga",
@@ -10787,7 +10787,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santo Angelo",
@@ -10800,7 +10800,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Carazinho",
@@ -10813,7 +10813,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Erechim",
@@ -10826,7 +10826,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guaira",
@@ -10839,7 +10839,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Palmas",
@@ -10852,7 +10852,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Arapongas",
@@ -10865,7 +10865,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Paranagua",
@@ -10878,7 +10878,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Jose dos Pinhais",
@@ -10891,7 +10891,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guarapuava",
@@ -10904,7 +10904,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rio Negro",
@@ -10917,7 +10917,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Apucarana",
@@ -10930,7 +10930,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Lapa",
@@ -10943,7 +10943,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Irati",
@@ -10956,7 +10956,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Castro",
@@ -10969,7 +10969,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Telemaco Borba",
@@ -10982,7 +10982,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jacarezinho",
@@ -10995,7 +10995,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Concordia",
@@ -11008,7 +11008,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Blumenau",
@@ -11021,7 +11021,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Brusque",
@@ -11034,7 +11034,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ararangua",
@@ -11047,7 +11047,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jaragua do Sul",
@@ -11060,7 +11060,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Tubarao",
@@ -11073,7 +11073,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Laguna",
@@ -11086,7 +11086,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Joacaba",
@@ -11099,7 +11099,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cacador",
@@ -11112,7 +11112,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Canoinhas",
@@ -11125,7 +11125,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Camocim",
@@ -11138,7 +11138,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Russas",
@@ -11151,7 +11151,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sobral",
@@ -11164,7 +11164,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Iguatu",
@@ -11177,7 +11177,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Quixada",
@@ -11190,7 +11190,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Caninde",
@@ -11203,7 +11203,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campo Maior",
@@ -11216,7 +11216,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barras",
@@ -11229,7 +11229,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rio Largo",
@@ -11268,7 +11268,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Paulo Afonso",
@@ -11281,7 +11281,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Brumado",
@@ -11294,7 +11294,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jaguaquara",
@@ -11307,7 +11307,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itapetinga",
@@ -11320,7 +11320,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ubaitaba",
@@ -11333,7 +11333,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cachoeiro de Itapemirim",
@@ -11346,7 +11346,7 @@
       "province": "Espírito Santo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barra Mansa",
@@ -11359,7 +11359,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nova Iguacu",
@@ -11372,7 +11372,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Duque de Caxias",
@@ -11385,7 +11385,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Niteroi",
@@ -11398,7 +11398,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cabo Frio",
@@ -11411,7 +11411,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Macae",
@@ -11424,7 +11424,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Miracema",
@@ -11437,7 +11437,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Apodi",
@@ -11450,7 +11450,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Cruz",
@@ -11463,7 +11463,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Morrinhos",
@@ -11476,7 +11476,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ceres",
@@ -11489,7 +11489,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Catalao",
@@ -11502,7 +11502,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cristalina",
@@ -11515,7 +11515,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Trindade",
@@ -11528,7 +11528,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ipora",
@@ -11541,7 +11541,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Inhumas",
@@ -11554,7 +11554,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itaberai",
@@ -11567,7 +11567,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santo Andre",
@@ -11580,7 +11580,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pindamonhangaba",
@@ -11593,7 +11593,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rio Claro",
@@ -11606,7 +11606,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ourinhos",
@@ -11619,7 +11619,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itanhaem",
@@ -11632,7 +11632,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jaboticabal",
@@ -11645,7 +11645,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Braganca Paulista",
@@ -11658,7 +11658,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jundiai",
@@ -11671,7 +11671,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Jose dos Campos",
@@ -11684,7 +11684,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guaratingueta",
@@ -11697,7 +11697,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pirassununga",
@@ -11710,7 +11710,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Americana",
@@ -11723,7 +11723,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Piracicaba",
@@ -11736,7 +11736,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Joao da Boa Vista",
@@ -11749,7 +11749,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Carlos",
@@ -11762,7 +11762,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Tupa",
@@ -11775,7 +11775,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Penapolis",
@@ -11788,7 +11788,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Presidente Prudente",
@@ -11801,7 +11801,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Registro",
@@ -11814,7 +11814,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Tatui",
@@ -11827,7 +11827,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Avare",
@@ -11840,7 +11840,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Garca",
@@ -11853,7 +11853,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Catanduva",
@@ -11866,7 +11866,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Batatais",
@@ -11879,7 +11879,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barretos",
@@ -11892,7 +11892,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Marilia",
@@ -11905,7 +11905,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itu",
@@ -11918,7 +11918,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itapetininga",
@@ -11931,7 +11931,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jaboatao",
@@ -12009,7 +12009,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Maues",
@@ -12022,7 +12022,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Pedreiras",
@@ -12035,7 +12035,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Codo",
@@ -12048,7 +12048,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Coroata",
@@ -12061,7 +12061,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Chapadinha",
@@ -12074,7 +12074,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pinheiro",
@@ -12087,7 +12087,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barra do Corda",
@@ -12100,7 +12100,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Viana",
@@ -12113,7 +12113,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Colinas",
@@ -12126,7 +12126,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Viseu",
@@ -12139,7 +12139,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Capitao Poco",
@@ -12152,7 +12152,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Castanhal",
@@ -12165,7 +12165,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Salinopolis",
@@ -12178,7 +12178,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Alenquer",
@@ -12191,7 +12191,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Oriximina",
@@ -12204,7 +12204,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Xinguara",
@@ -12217,7 +12217,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jacundá",
@@ -12230,7 +12230,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Uruara",
@@ -12243,7 +12243,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Altamira",
@@ -12256,7 +12256,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Paragominas",
@@ -12269,7 +12269,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cameta",
@@ -12282,7 +12282,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rolim de Moura",
@@ -12295,7 +12295,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Ariquemes",
@@ -12308,7 +12308,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Abuna",
@@ -12321,7 +12321,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Tocantinopolis",
@@ -12334,7 +12334,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Gurupi",
@@ -12347,7 +12347,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Aquidauana",
@@ -12386,7 +12386,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Divinopolis",
@@ -12399,7 +12399,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ipatinga",
@@ -12412,7 +12412,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Araxa",
@@ -12425,7 +12425,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Lavras",
@@ -12438,7 +12438,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Uba",
@@ -12451,7 +12451,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campo Belo",
@@ -12464,7 +12464,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ponte Nova",
@@ -12477,7 +12477,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Curvelo",
@@ -12490,7 +12490,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Paracatu",
@@ -12503,7 +12503,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bocaiuva",
@@ -12516,7 +12516,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Aracuai",
@@ -12529,7 +12529,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Janauba",
@@ -12542,7 +12542,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Juina",
@@ -12620,7 +12620,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Borja",
@@ -12633,7 +12633,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Novo Hamburgo",
@@ -12646,7 +12646,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rio Grande",
@@ -12659,7 +12659,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Camaqua",
@@ -12672,7 +12672,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bento Goncalves",
@@ -12685,7 +12685,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Vacaria",
@@ -12698,7 +12698,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ijui",
@@ -12711,7 +12711,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Rosa",
@@ -12724,7 +12724,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Maringa",
@@ -12737,7 +12737,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Cascavel",
@@ -12750,7 +12750,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campo Murao",
@@ -12763,7 +12763,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Foz do Iguacu",
@@ -12776,7 +12776,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Francisco do Sul",
@@ -12789,7 +12789,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Porto Uniao",
@@ -12802,7 +12802,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itajai",
@@ -12815,7 +12815,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Imbituba",
@@ -12828,7 +12828,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Lajes",
@@ -12841,7 +12841,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Granja",
@@ -12854,7 +12854,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Crato",
@@ -12867,7 +12867,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itapipoca",
@@ -12880,7 +12880,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Paracuru",
@@ -12893,7 +12893,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Acarau",
@@ -12906,7 +12906,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Taua",
@@ -12919,7 +12919,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Crateus",
@@ -12932,7 +12932,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Baturite",
@@ -12945,7 +12945,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ipu",
@@ -12958,7 +12958,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Floriano",
@@ -12971,7 +12971,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Piripiri",
@@ -12984,7 +12984,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Penedo",
@@ -13010,7 +13010,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itamaraju",
@@ -13023,7 +13023,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guanambi",
@@ -13036,7 +13036,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Porto Seguro",
@@ -13049,7 +13049,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Valenca",
@@ -13062,7 +13062,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Serrinha",
@@ -13075,7 +13075,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Tucano",
@@ -13088,7 +13088,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Senhor do Bonfim",
@@ -13101,7 +13101,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Remanso",
@@ -13114,7 +13114,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itambe",
@@ -13127,7 +13127,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bom Jesus da Lapa",
@@ -13140,7 +13140,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itaberaba",
@@ -13153,7 +13153,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Mateus",
@@ -13166,7 +13166,7 @@
       "province": "Espírito Santo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Patos",
@@ -13179,7 +13179,7 @@
       "province": "Paraíba",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Volta Redonda",
@@ -13192,7 +13192,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Petropolis",
@@ -13205,7 +13205,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nova Cruz",
@@ -13218,7 +13218,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Caico",
@@ -13231,7 +13231,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Acu",
@@ -13244,7 +13244,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Estancia",
@@ -13283,7 +13283,7 @@
       "province": "Amapá",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Rio Verde",
@@ -13296,7 +13296,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pires do Rio",
@@ -13309,7 +13309,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Anapolis",
@@ -13322,7 +13322,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Goianesia",
@@ -13335,7 +13335,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Niquelandia",
@@ -13348,7 +13348,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itumbiara",
@@ -13361,7 +13361,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jatai",
@@ -13374,7 +13374,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Mineiros",
@@ -13387,7 +13387,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Formosa",
@@ -13400,7 +13400,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Jose do Rio Preto",
@@ -13413,7 +13413,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Limeira",
@@ -13426,7 +13426,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Taubate",
@@ -13439,7 +13439,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jau",
@@ -13452,7 +13452,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Assis",
@@ -13465,7 +13465,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itapeva",
@@ -13478,7 +13478,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Botucatu",
@@ -13491,7 +13491,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Novo Horizonte",
@@ -13504,7 +13504,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Andradina",
@@ -13517,7 +13517,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Fernandopolis",
@@ -13530,7 +13530,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barreiros",
@@ -13595,7 +13595,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Braganca",
@@ -13608,7 +13608,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Obidos",
@@ -13621,7 +13621,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Guajara-Miram",
@@ -13634,7 +13634,7 @@
       "province": "Rondônia",
       "timezone": "America/La_Paz",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "BOT"
     },
     {
       "city": "Porto Nacional",
@@ -13647,7 +13647,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Dourados",
@@ -13673,7 +13673,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Pirapora",
@@ -13686,7 +13686,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Juiz de Fora",
@@ -13699,7 +13699,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Maria",
@@ -13712,7 +13712,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Passo Fundo",
@@ -13725,7 +13725,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Xapeco",
@@ -13738,7 +13738,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Joinville",
@@ -13751,7 +13751,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Juazeiro do Norte",
@@ -13764,7 +13764,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nova Vicosa",
@@ -13777,7 +13777,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Alagoinhas",
@@ -13790,7 +13790,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Juazeiro",
@@ -13803,7 +13803,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Vitória",
@@ -13816,7 +13816,7 @@
       "province": "Espírito Santo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Joao Pessoa",
@@ -13829,7 +13829,7 @@
       "province": "Paraíba",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campina Grande",
@@ -13842,7 +13842,7 @@
       "province": "Paraíba",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Nova Friburgo",
@@ -13855,7 +13855,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Aracatuba",
@@ -13868,7 +13868,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sena Madureira",
@@ -13894,7 +13894,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Eirunepe",
@@ -13920,7 +13920,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Barcelos",
@@ -13933,7 +13933,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Tonantins",
@@ -13946,7 +13946,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Tefe",
@@ -13959,7 +13959,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Coari",
@@ -13972,7 +13972,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Sao Cabriel da Cachoeira",
@@ -13985,7 +13985,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Novo Airao",
@@ -13998,7 +13998,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Itacoatiara",
@@ -14011,7 +14011,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Parintins",
@@ -14024,7 +14024,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Natal",
@@ -14037,7 +14037,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Crato",
@@ -14050,7 +14050,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Imperatriz",
@@ -14063,7 +14063,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Balsas",
@@ -14076,7 +14076,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Breves",
@@ -14089,7 +14089,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Jacareacanga",
@@ -14102,7 +14102,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Tucurui",
@@ -14115,7 +14115,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Itaituba",
@@ -14128,7 +14128,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Conceicao do Araguaia",
@@ -14141,7 +14141,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Abaetetuba",
@@ -14154,7 +14154,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Principe da Beira",
@@ -14167,7 +14167,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Araguaina",
@@ -14180,7 +14180,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Palmas",
@@ -14193,7 +14193,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Teofilo Otoni",
@@ -14206,7 +14206,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Uberaba",
@@ -14219,7 +14219,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Januaria",
@@ -14232,7 +14232,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Mato Grosso",
@@ -14284,7 +14284,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bage",
@@ -14297,7 +14297,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Londrina",
@@ -14310,7 +14310,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Criciuma",
@@ -14323,7 +14323,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Aracati",
@@ -14336,7 +14336,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ico",
@@ -14349,7 +14349,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Parnaiba",
@@ -14362,7 +14362,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Picos",
@@ -14375,7 +14375,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Arapiraca",
@@ -14401,7 +14401,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ilheus",
@@ -14414,7 +14414,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Canavieiras",
@@ -14427,7 +14427,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santa Maria da Vitoria",
@@ -14440,7 +14440,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Irece",
@@ -14453,7 +14453,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Xique-Xique",
@@ -14466,7 +14466,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Linhares",
@@ -14479,7 +14479,7 @@
       "province": "Espírito Santo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campos",
@@ -14492,7 +14492,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Mossoro",
@@ -14505,7 +14505,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Aracaju",
@@ -14531,7 +14531,7 @@
       "province": "Amapá",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Amapa",
@@ -14544,7 +14544,7 @@
       "province": "Amapá",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Vila Velha",
@@ -14557,7 +14557,7 @@
       "province": "Amapá",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santos",
@@ -14570,7 +14570,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bauru",
@@ -14583,7 +14583,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Iguape",
@@ -14596,7 +14596,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Franca",
@@ -14609,7 +14609,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Garanhuns",
@@ -14661,7 +14661,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Porto Velho",
@@ -14674,7 +14674,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Alvorada",
@@ -14687,7 +14687,7 @@
       "province": "Tocantins",
       "timezone": "America/Araguaina",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Corumba",
@@ -14713,7 +14713,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Montes Claros",
@@ -14726,7 +14726,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Uberlandia",
@@ -14739,7 +14739,7 @@
       "province": "Minas Gerais",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Colider",
@@ -14791,7 +14791,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Caxias do Sul",
@@ -14804,7 +14804,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ponta Grossa",
@@ -14817,7 +14817,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Teresina",
@@ -14830,7 +14830,7 @@
       "province": "Piauí",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Maceio",
@@ -14856,7 +14856,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Barreiras",
@@ -14869,7 +14869,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Vila Velha",
@@ -14882,7 +14882,7 @@
       "province": "Espírito Santo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Natal",
@@ -14895,7 +14895,7 @@
       "province": "Rio Grande do Norte",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Campinas",
@@ -14908,7 +14908,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sorocaba",
@@ -14921,7 +14921,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Ribeirao Preto",
@@ -14934,7 +14934,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Petrolina",
@@ -14973,7 +14973,7 @@
       "province": "Amazonas",
       "timezone": "America/Manaus",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Caxias",
@@ -14986,7 +14986,7 @@
       "province": "Maranhão",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Santarem",
@@ -14999,7 +14999,7 @@
       "province": "Pará",
       "timezone": "America/Santarem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Maraba",
@@ -15012,7 +15012,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Vilhena",
@@ -15025,7 +15025,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Ji-Parana",
@@ -15038,7 +15038,7 @@
       "province": "Rondônia",
       "timezone": "America/Porto_Velho",
       "offset": "-04:00",
-      "tzCode": "-04"
+      "tzCode": "AMT"
     },
     {
       "city": "Campo Grande",
@@ -15064,7 +15064,7 @@
       "province": "Santa Catarina",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Feira de Santana",
@@ -15077,7 +15077,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Boa Vista",
@@ -15103,7 +15103,7 @@
       "province": "Amapá",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Belem",
@@ -15116,7 +15116,7 @@
       "province": "Pará",
       "timezone": "America/Belem",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Brasilia",
@@ -15129,7 +15129,7 @@
       "province": "Distrito Federal",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Porto Alegre",
@@ -15142,7 +15142,7 @@
       "province": "Rio Grande do Sul",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Curitiba",
@@ -15155,7 +15155,7 @@
       "province": "Paraná",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Fortaleza",
@@ -15168,7 +15168,7 @@
       "province": "Ceará",
       "timezone": "America/Fortaleza",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Salvador",
@@ -15181,7 +15181,7 @@
       "province": "Bahia",
       "timezone": "America/Bahia",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Goiania",
@@ -15194,7 +15194,7 @@
       "province": "Goiás",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Recife",
@@ -15220,7 +15220,7 @@
       "province": "Rio de Janeiro",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Sao Paulo",
@@ -15233,7 +15233,7 @@
       "province": "São Paulo",
       "timezone": "America/Sao_Paulo",
       "offset": "-03:00",
-      "tzCode": "-03"
+      "tzCode": "BRT"
     },
     {
       "city": "Bandar Seri Begawan",
@@ -62633,7 +62633,7 @@
       "province": "Ust-Orda Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Maykop",
@@ -62763,7 +62763,7 @@
       "province": "Koryak",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Chernyakhovsk",
@@ -63530,7 +63530,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Anzhero Sudzhensk",
@@ -63543,7 +63543,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Kiselevsk",
@@ -63556,7 +63556,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Mundybash",
@@ -63569,7 +63569,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Chernogorsk",
@@ -63582,7 +63582,7 @@
       "province": "Khakass",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Abaza",
@@ -63595,7 +63595,7 @@
       "province": "Khakass",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Iskitim",
@@ -63647,7 +63647,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Bogotol",
@@ -63660,7 +63660,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Shilka",
@@ -63673,7 +63673,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Sherlovaya Gora",
@@ -63686,7 +63686,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Petrovsk Zabaykalskiy",
@@ -63699,7 +63699,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Arsenyev",
@@ -63712,7 +63712,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Partizansk",
@@ -63725,7 +63725,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Dalnerechensk",
@@ -63738,7 +63738,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Zemlya Bunge",
@@ -63751,7 +63751,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Khorgo",
@@ -63764,7 +63764,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Put Lenina",
@@ -63777,7 +63777,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Obluchye",
@@ -63790,7 +63790,7 @@
       "province": "Yevrey",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Vanino",
@@ -63803,7 +63803,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Omchak",
@@ -63829,7 +63829,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Kholmsk",
@@ -63842,7 +63842,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Solikamsk",
@@ -66078,7 +66078,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Guryevsk",
@@ -66091,7 +66091,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Yurga",
@@ -66104,7 +66104,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Topki",
@@ -66117,7 +66117,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Mariinsk",
@@ -66130,7 +66130,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Shira",
@@ -66143,7 +66143,7 @@
       "province": "Khakass",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Cherepanovo",
@@ -66273,7 +66273,7 @@
       "province": "Evenk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Ulkan",
@@ -66286,7 +66286,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Kirensk",
@@ -66299,7 +66299,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Zheleznogorsk Ilimskiy",
@@ -66312,7 +66312,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Vikhorevka",
@@ -66325,7 +66325,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Biryusinsk",
@@ -66338,7 +66338,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Kodinskiy",
@@ -66351,7 +66351,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Artemovsk",
@@ -66364,7 +66364,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Uyar",
@@ -66377,7 +66377,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Uzhur",
@@ -66390,7 +66390,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Sayanogorsk",
@@ -66403,7 +66403,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Podkamennaya",
@@ -66416,7 +66416,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Igarka",
@@ -66429,7 +66429,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Agapa",
@@ -66442,7 +66442,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Boyarka",
@@ -66455,7 +66455,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Nordvik",
@@ -66468,7 +66468,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Chelyuskin",
@@ -66481,7 +66481,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Taksimo",
@@ -66494,7 +66494,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Gusinoozyorsk",
@@ -66507,7 +66507,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Aginskoye",
@@ -66520,7 +66520,7 @@
       "province": "Aga Buryat",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Progress",
@@ -66533,7 +66533,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Belogorsk",
@@ -66546,7 +66546,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Nyukzha",
@@ -66559,7 +66559,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Nerchinsk",
@@ -66572,7 +66572,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Kavalerovo",
@@ -66585,7 +66585,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Spassk Dalniy",
@@ -66598,7 +66598,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Shalaurova",
@@ -66611,7 +66611,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Logashkino",
@@ -66624,7 +66624,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Ust Kuyga",
@@ -66637,7 +66637,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Pokrovsk",
@@ -66650,7 +66650,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Verkhnevilyuysk",
@@ -66663,7 +66663,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Vitim",
@@ -66676,7 +66676,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Olyokminsk",
@@ -66689,7 +66689,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Tunguskhaya",
@@ -66702,7 +66702,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Natara",
@@ -66715,7 +66715,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Zhilinda",
@@ -66728,7 +66728,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Trofimovsk",
@@ -66741,7 +66741,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Tukchi",
@@ -66754,7 +66754,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Amursk",
@@ -66767,7 +66767,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Bikin",
@@ -66780,7 +66780,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Vyazemskiy",
@@ -66793,7 +66793,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Chegdomyn",
@@ -66806,7 +66806,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Siglan",
@@ -66858,7 +66858,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Krasnogorsk",
@@ -66871,7 +66871,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Poronaysk",
@@ -66884,7 +66884,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Makarov",
@@ -66897,7 +66897,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Dolinsk",
@@ -66910,7 +66910,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Nevelsk",
@@ -66923,7 +66923,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Kudymkar",
@@ -67586,7 +67586,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Makhachkala",
@@ -67612,7 +67612,7 @@
       "province": "Evenk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Noginsk",
@@ -67625,7 +67625,7 @@
       "province": "Evenk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Yerema",
@@ -67638,7 +67638,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Tayshet",
@@ -67651,7 +67651,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Usolye Sibirskoye",
@@ -67664,7 +67664,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Slyudyanka",
@@ -67677,7 +67677,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Cheremkhovo",
@@ -67690,7 +67690,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Zima",
@@ -67703,7 +67703,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Tulun",
@@ -67716,7 +67716,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Nizhneudinsk",
@@ -67729,7 +67729,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Ust Kut",
@@ -67742,7 +67742,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Bodaybo",
@@ -67755,7 +67755,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Komsa",
@@ -67768,7 +67768,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Kansk",
@@ -67781,7 +67781,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Achinsk",
@@ -67794,7 +67794,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Yeniseysk",
@@ -67807,7 +67807,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Lesosibirsk",
@@ -67820,7 +67820,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Turukhansk",
@@ -67833,7 +67833,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Vorontsovo",
@@ -67846,7 +67846,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Starorybnoye",
@@ -67859,7 +67859,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Mikhaylova",
@@ -67872,7 +67872,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Dudinka",
@@ -67885,7 +67885,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Teli",
@@ -67898,7 +67898,7 @@
       "province": "Tuva",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Novyy Uoyin",
@@ -67911,7 +67911,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Bagdarin",
@@ -67924,7 +67924,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Severobaykalsk",
@@ -67937,7 +67937,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Kyakhta",
@@ -67950,7 +67950,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Svobodnyy",
@@ -67963,7 +67963,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Zeya",
@@ -67976,7 +67976,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Magdagachi",
@@ -67989,7 +67989,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Shimanovsk",
@@ -68002,7 +68002,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Skovorodino",
@@ -68015,7 +68015,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Tynda",
@@ -68028,7 +68028,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Olovyannaya",
@@ -68041,7 +68041,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Mogocha",
@@ -68054,7 +68054,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Krasnokamensk",
@@ -68067,7 +68067,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Borzya",
@@ -68080,7 +68080,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Khilok",
@@ -68093,7 +68093,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Nakhodka",
@@ -68106,7 +68106,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Ussuriysk",
@@ -68119,7 +68119,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Lesozavodsk",
@@ -68132,7 +68132,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Kavache",
@@ -68145,7 +68145,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Verkhoyansk",
@@ -68158,7 +68158,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Cherskiy",
@@ -68171,7 +68171,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Srednekolymsk",
@@ -68184,7 +68184,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Zyryanka",
@@ -68197,7 +68197,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Eldikan",
@@ -68262,7 +68262,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Chernyshevskiy",
@@ -68275,7 +68275,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Terbyas",
@@ -68288,7 +68288,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Vilyuysk",
@@ -68301,7 +68301,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Sangar",
@@ -68314,7 +68314,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Menkere",
@@ -68327,7 +68327,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Saskylakh",
@@ -68340,7 +68340,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Govorovo",
@@ -68353,7 +68353,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Sagastyr",
@@ -68366,7 +68366,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Ust Olensk",
@@ -68379,7 +68379,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Suntar",
@@ -68392,7 +68392,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Olenek",
@@ -68405,7 +68405,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Udachnyy",
@@ -68418,7 +68418,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Birobidzhan",
@@ -68431,7 +68431,7 @@
       "province": "Yevrey",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Khakhar",
@@ -68444,7 +68444,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "De Kastri",
@@ -68457,7 +68457,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Chumikan",
@@ -68470,7 +68470,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Komsomolsk na Amure",
@@ -68483,7 +68483,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Ayan",
@@ -68496,7 +68496,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Nikolayevsk na Amure",
@@ -68509,7 +68509,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Savetskaya Gavan",
@@ -68522,7 +68522,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Evensk",
@@ -68587,7 +68587,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Aleksandrovsk Sakhalinskiy",
@@ -68600,7 +68600,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Korsakov",
@@ -68613,7 +68613,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Manily",
@@ -69458,7 +69458,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Kemerovo",
@@ -69471,7 +69471,7 @@
       "province": "Kemerovo",
       "timezone": "Asia/Novokuznetsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Groznyy",
@@ -69497,7 +69497,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Angarsk",
@@ -69510,7 +69510,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Abakan",
@@ -69523,7 +69523,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Norilsk",
@@ -69536,7 +69536,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Khatanga",
@@ -69549,7 +69549,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Kyzyl",
@@ -69562,7 +69562,7 @@
       "province": "Tuva",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Ulan Ude",
@@ -69575,7 +69575,7 @@
       "province": "Buryat",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Blagoveshchensk",
@@ -69588,7 +69588,7 @@
       "province": "Amur",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Bukachacha",
@@ -69601,7 +69601,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Dalnegorsk",
@@ -69614,7 +69614,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Ambarchik",
@@ -69627,7 +69627,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Batagay",
@@ -69640,7 +69640,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Chokurdakh",
@@ -69653,7 +69653,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Srednekolymsk",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SRET"
     },
     {
       "city": "Ust Nera",
@@ -69679,7 +69679,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Aldan",
@@ -69692,7 +69692,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Mirnyy",
@@ -69705,7 +69705,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Zhigansk",
@@ -69718,7 +69718,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Okhotsk",
@@ -69731,7 +69731,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Khabarovsk",
@@ -69744,7 +69744,7 @@
       "province": "Khabarovsk",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Okha",
@@ -69757,7 +69757,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Yuzhno Sakhalinsk",
@@ -69770,7 +69770,7 @@
       "province": "Sakhalin",
       "timezone": "Asia/Sakhalin",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SAKT"
     },
     {
       "city": "Tomsk",
@@ -69952,7 +69952,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Irkutsk",
@@ -69965,7 +69965,7 @@
       "province": "Irkutsk",
       "timezone": "Asia/Irkutsk",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "IRKT"
     },
     {
       "city": "Krasnoyarsk",
@@ -69978,7 +69978,7 @@
       "province": "Krasnoyarsk",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Dickson",
@@ -69991,7 +69991,7 @@
       "province": "Taymyr",
       "timezone": "Asia/Krasnoyarsk",
       "offset": "+07:00",
-      "tzCode": "+07"
+      "tzCode": "KRAT"
     },
     {
       "city": "Chita",
@@ -70004,7 +70004,7 @@
       "province": "Chita",
       "timezone": "Asia/Chita",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Vladivostok",
@@ -70017,7 +70017,7 @@
       "province": "Primor'ye",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Nizhneyansk",
@@ -70030,7 +70030,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Vladivostok",
       "offset": "+10:00",
-      "tzCode": "+10"
+      "tzCode": "VLAT"
     },
     {
       "city": "Yakutsk",
@@ -70043,7 +70043,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Tiksi",
@@ -70056,7 +70056,7 @@
       "province": "Sakha (Yakutia)",
       "timezone": "Asia/Yakutsk",
       "offset": "+09:00",
-      "tzCode": "+09"
+      "tzCode": "YAKT"
     },
     {
       "city": "Magadan",
@@ -71096,7 +71096,7 @@
       "province": "",
       "timezone": "Asia/Singapore",
       "offset": "+08:00",
-      "tzCode": "+08"
+      "tzCode": "SGT"
     },
     {
       "city": "Banska Bystrica",
@@ -71226,7 +71226,7 @@
       "province": "Choiseul",
       "timezone": "Pacific/Guadalcanal",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SBT"
     },
     {
       "city": "Lata",
@@ -71239,7 +71239,7 @@
       "province": "Temotu",
       "timezone": "Pacific/Guadalcanal",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SBT"
     },
     {
       "city": "Honiara",
@@ -71252,7 +71252,7 @@
       "province": "Guadalcanal",
       "timezone": "Pacific/Guadalcanal",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "SBT"
     },
     {
       "city": "Hudur",
@@ -93542,7 +93542,7 @@
       "province": "Sanma",
       "timezone": "Pacific/Efate",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "VUT"
     },
     {
       "city": "Port Vila",
@@ -93555,7 +93555,7 @@
       "province": "Shefa",
       "timezone": "Pacific/Efate",
       "offset": "+11:00",
-      "tzCode": "+11"
+      "tzCode": "VUT"
     },
     {
       "city": "Vatican City",
